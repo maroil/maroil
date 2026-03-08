@@ -25,6 +25,9 @@
 - 🔨 **[dbt-forge](https://github.com/maroil/dbt-forge)**  
   Python CLI for scaffolding production-ready dbt projects with opinionated defaults, adapter templates, and optional GitHub Actions and SQLFluff setup.
 
+- 🌊 **[uniflow](https://github.com/maroil/uniflow)**  
+  Open-source customer data platform built to run in your own AWS account, with event collection, identity resolution, unified profiles, segmentation, and destination connectors.
+
 - 🔧 **[SETL](https://github.com/SETL-Framework/setl)**  
   Scala ETL framework powered by Apache Spark, designed to structure data pipelines, modularize transformation logic, and speed up development for data engineers.
 
