@@ -22,6 +22,9 @@
 
 ## Projects
 
+- 🔨 **[dbt-forge](https://github.com/maroil/dbt-forge)**  
+  Python CLI for scaffolding production-ready dbt projects with opinionated defaults, adapter templates, and optional GitHub Actions and SQLFluff setup.
+
 - 🔧 **[SETL](https://github.com/SETL-Framework/setl)**  
   Scala ETL framework powered by Apache Spark, designed to structure data pipelines, modularize transformation logic, and speed up development for data engineers.
 
