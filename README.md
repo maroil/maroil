@@ -25,14 +25,14 @@
 - 🔨 **[dbt-forge](https://github.com/maroil/dbt-forge)**  
   Python CLI for scaffolding production-ready dbt projects with opinionated defaults, adapter templates, and optional GitHub Actions and SQLFluff setup.
 
+- 🖥️ **[airflow-bar](https://github.com/maroil/airflow-bar)**  
+  macOS menu bar app for monitoring Apache Airflow DAGs, with multi-environment support, Airflow API polling, and failure/recovery notifications.
+
 - 🌊 **[uniflow](https://github.com/maroil/uniflow)**  
   Open-source customer data platform built to run in your own AWS account, with event collection, identity resolution, unified profiles, segmentation, and destination connectors.
 
 - 🔧 **[SETL](https://github.com/SETL-Framework/setl)**  
   Scala ETL framework powered by Apache Spark, designed to structure data pipelines, modularize transformation logic, and speed up development for data engineers.
-
-- 🍃 **[airflow-bar](https://github.com/maroil/airflow-bar)**  
-  macOS menu bar app for monitoring Apache Airflow DAGs, with multi-environment support, Airflow API polling, and failure/recovery notifications.
 
 - 🎭 **[outlAIer](https://github.com/maroil/outlaier)**  
   Experimental AI spectator game where multiple models play an impostor-style social deduction round in public. A side project at the intersection of AI systems, product design, and rapid prototyping.
